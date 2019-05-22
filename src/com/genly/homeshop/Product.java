@@ -1,4 +1,5 @@
 package com.genly.homeshop;
+//It's ok ?
 
 public class Product {
     private String name;
