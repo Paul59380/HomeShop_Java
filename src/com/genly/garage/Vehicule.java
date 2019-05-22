@@ -1,11 +1,11 @@
 package com.genly.garage;
 
-public class Vehicule {
+public abstract class Vehicule {
     private String description;
     private String manufacturer;
     private int speed;
     private int year;
-    private String modelName;
+    protected String modelName;
     private String color;
     private int[] dimensions;
     private int weight;
@@ -22,13 +22,9 @@ public class Vehicule {
         this.weight = weight;
     }
 
-    public void start() {
-        System.out.println("Je suis " + modelName + " et je démarre");
-    }
+    public abstract void start();
 
-    public void stop() {
-        System.out.println("Je suis " + modelName + " et je m'arrête");
-    }
+    public abstract void stop();
 
     public String getDescription() {
         return description;
