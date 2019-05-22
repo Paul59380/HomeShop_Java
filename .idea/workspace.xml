@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c0df7183-d924-472a-b42b-5c2410e9f682" name="Default Changelist" comment="">
+    <list default="true" id="c0df7183-d924-472a-b42b-5c2410e9f682" name="Default Changelist" comment="It's okay ?">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -28,11 +28,12 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/com/genly/homeshop/Customer.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="270">
-              <caret line="10" column="32" lean-forward="true" selection-start-line="10" selection-start-column="32" selection-end-line="10" selection-end-column="32" />
+            <state relative-caret-position="129">
+              <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
               <folding>
                 <element signature="e#143#144#0" expanded="true" />
                 <element signature="e#174#175#0" expanded="true" />
+                <element signature="e#208#209#0" expanded="true" />
                 <element signature="e#238#239#0" expanded="true" />
               </folding>
             </state>
@@ -64,6 +65,7 @@
         <option value="$PROJECT_DIR$/test/com/genly/homeshop/ProductTest.java" />
         <option value="$PROJECT_DIR$/src/com/genly/homeshop/Product.java" />
         <option value="$PROJECT_DIR$/src/com/genly/homeshop/Customer.java" />
+        <option value="$PROJECT_DIR$/.idea/misc.xml" />
       </list>
     </option>
   </component>
@@ -85,6 +87,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
@@ -92,6 +95,11 @@
             <path>
               <item name="HomeShop" type="b2602c69:ProjectViewProjectNode" />
               <item name="HomeShop" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="HomeShop" type="b2602c69:ProjectViewProjectNode" />
+              <item name="HomeShop" type="462c0819:PsiDirectoryNode" />
+              <item name=".idea" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="HomeShop" type="b2602c69:ProjectViewProjectNode" />
@@ -137,7 +145,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -206,6 +213,7 @@
       <updated>1558444158694</updated>
       <workItem from="1558444161974" duration="3810000" />
       <workItem from="1558506939334" duration="1043000" />
+      <workItem from="1558508363644" duration="811000" />
     </task>
     <task id="LOCAL-00001" summary="First Project in JAVA">
       <created>1558507071442</created>
@@ -214,17 +222,31 @@
       <option name="project" value="LOCAL" />
       <updated>1558507071442</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="First Project in JAVA">
+      <created>1558508526997</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1558508526997</updated>
+    </task>
+    <task id="LOCAL-00003" summary="It's okay ?">
+      <created>1558508599752</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1558508599752</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="4853000" />
+    <option name="totallyTimeSpent" value="5664000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.1930295" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.19571045" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -242,7 +264,7 @@
       <window_info anchor="bottom" id="Version Control" order="8" />
       <window_info anchor="bottom" id="Database Changes" order="9" />
       <window_info anchor="bottom" id="Terminal" order="10" />
-      <window_info active="true" anchor="bottom" id="Event Log" order="11" side_tool="true" visible="true" weight="0.32956153" />
+      <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" visible="true" weight="0.32956153" />
       <window_info anchor="bottom" id="Messages" order="12" weight="0.32956153" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -260,7 +282,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="First Project in JAVA" />
-    <option name="LAST_COMMIT_MESSAGE" value="First Project in JAVA" />
+    <MESSAGE value="It's okay ?" />
+    <option name="LAST_COMMIT_MESSAGE" value="It's okay ?" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/com/genly/Main.java">
@@ -354,13 +377,21 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/.idea/misc.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="108">
+          <caret line="4" column="14" selection-start-line="4" selection-start-column="14" selection-end-line="4" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/com/genly/homeshop/Customer.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="10" column="32" lean-forward="true" selection-start-line="10" selection-start-column="32" selection-end-line="10" selection-end-column="32" />
+        <state relative-caret-position="129">
+          <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
           <folding>
             <element signature="e#143#144#0" expanded="true" />
             <element signature="e#174#175#0" expanded="true" />
+            <element signature="e#208#209#0" expanded="true" />
             <element signature="e#238#239#0" expanded="true" />
           </folding>
         </state>
