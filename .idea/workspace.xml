@@ -2,21 +2,50 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c0df7183-d924-472a-b42b-5c2410e9f682" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/genly/homeshop/FileWriter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/genly/homeshop/Writer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/HomeShop/com/genly/homeshop/Bill.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/HomeShop/com/genly/homeshop/Bill.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/test/HomeShop/com/genly/homeshop/BillTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/test/HomeShop/com/genly/homeshop/BillTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/genly/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/genly/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/genly/homeshop/Bill.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/genly/homeshop/Bill.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/genly/homeshop/Delivery.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/genly/homeshop/Delivery.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/genly/homeshop/DirectDelivery.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/genly/homeshop/DirectDelivery.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/genly/homeshop/ExpressDelivery.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/genly/homeshop/ExpressDelivery.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/genly/homeshop/RelayDelivery.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/genly/homeshop/RelayDelivery.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/genly/homeshop/TakeAwayDelivery.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/genly/homeshop/TakeAwayDelivery.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HomeShop.iml" beforeDir="false" afterPath="$PROJECT_DIR$/HomeShop.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/HomeShop/com/genly/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/HomeShop/com/genly/homeshop/Bill.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/HomeShop/com/genly/homeshop/Customer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/HomeShop/com/genly/homeshop/Product.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/HomeShop/com/genly/miam/Aliment.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/HomeShop/com/genly/miam/Four.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/HomeShop/com/genly/miam/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/HomeShop/com/genly/miam/Resistance.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/HomeShop/com/genly/miam/Soufflerie.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/test/HomeShop/com/genly/homeshop/BillTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/test/HomeShop/com/genly/homeshop/CustomerTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/test/HomeShop/com/genly/homeshop/ProductTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/genly/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/genly/Paris/Bus.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/genly/Paris/MoyenDeLocomotion.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/genly/Paris/Parisien.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/genly/garage/Bike.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/genly/garage/Car.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/genly/garage/Vehicule.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/genly/homeshop/Bill.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/genly/homeshop/Customer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/genly/homeshop/Delivery.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/genly/homeshop/DirectDelivery.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/genly/homeshop/ExpressDelivery.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/genly/homeshop/FileWriter.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/genly/homeshop/Fridge.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/genly/homeshop/Product.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/genly/homeshop/RelayDelivery.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/genly/homeshop/TakeAwayDelivery.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/genly/homeshop/Television.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/genly/homeshop/Writer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/genly/miam/Aliment.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/genly/miam/Four.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/genly/miam/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/genly/miam/Resistance.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/genly/miam/Soufflerie.java" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/test/com/genly/homeshop/BillTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/test/com/genly/homeshop/BillTest.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
+    <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -29,78 +58,21 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/genly/homeshop/Writer.java">
+        <entry file="file://$PROJECT_DIR$/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="162">
-              <caret line="6" column="10" selection-start-line="6" selection-start-column="10" selection-end-line="6" selection-end-column="10" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/genly/homeshop/Bill.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="291">
-              <caret line="53" column="65" selection-start-line="53" selection-start-column="65" selection-end-line="53" selection-end-column="65" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#185#203#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="416">
+              <caret line="28" column="21" selection-start-line="28" selection-start-column="21" selection-end-line="28" selection-end-column="21" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/com/genly/Main.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/genly/Main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="351">
-              <caret line="19" lean-forward="true" selection-start-line="19" selection-end-line="19" />
+            <state relative-caret-position="432">
+              <caret line="24" column="48" lean-forward="true" selection-start-line="24" selection-start-column="48" selection-end-line="24" selection-end-column="48" />
               <folding>
                 <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/genly/homeshop/FileWriter.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-189">
-              <caret line="17" column="13" lean-forward="true" selection-start-line="17" selection-start-column="13" selection-end-line="17" selection-end-column="13" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#353#354#0" expanded="true" />
-                <element signature="e#393#394#0" expanded="true" />
-                <element signature="e#535#536#0" expanded="true" />
-                <element signature="e#567#568#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/genly/homeshop/Product.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="459">
-              <caret line="21" column="30" selection-start-line="21" selection-start-column="30" selection-end-line="21" selection-end-column="30" />
-              <folding>
-                <element signature="e#492#493#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/test/com/genly/homeshop/BillTest.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="297">
-              <caret line="41" column="23" selection-start-line="41" selection-start-column="23" selection-end-line="41" selection-end-column="23" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#217#218#0" expanded="true" />
-                <element signature="e#246#247#0" expanded="true" />
-                <element signature="e#316#317#0" expanded="true" />
-                <element signature="e#354#355#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -148,11 +120,23 @@
         <option value="$PROJECT_DIR$/src/com/genly/homeshop/ExpressDelivery.java" />
         <option value="$PROJECT_DIR$/src/com/genly/homeshop/RelayDelivery.java" />
         <option value="$PROJECT_DIR$/src/com/genly/homeshop/TakeAwayDelivery.java" />
-        <option value="$PROJECT_DIR$/test/com/genly/homeshop/BillTest.java" />
         <option value="$PROJECT_DIR$/src/com/genly/homeshop/FileWriter.java" />
-        <option value="$PROJECT_DIR$/src/com/genly/Main.java" />
+        <option value="$PROJECT_DIR$/src/com/genly/homeshop/NoProductInBill.java" />
+        <option value="$PROJECT_DIR$/src/com/genly/homeshop/NoProductInBillException.java" />
         <option value="$PROJECT_DIR$/src/com/genly/homeshop/Bill.java" />
+        <option value="$PROJECT_DIR$/src/com/genly/Main.java" />
+        <option value="$APPLICATION_CONFIG_DIR$/consoles/jshell/jshell_console.snippet" />
+        <option value="$PROJECT_DIR$/test/com/genly/homeshop/BillTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/genly/Main.java" />
+        <option value="$PROJECT_DIR$/pom.xml" />
       </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
@@ -178,30 +162,41 @@
             <path>
               <item name="HomeShop" type="b2602c69:ProjectViewProjectNode" />
               <item name="HomeShop" type="462c0819:PsiDirectoryNode" />
+              <item name=".idea" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="HomeShop" type="b2602c69:ProjectViewProjectNode" />
+              <item name="HomeShop" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="HomeShop" type="b2602c69:ProjectViewProjectNode" />
               <item name="HomeShop" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="HomeShop" type="b2602c69:ProjectViewProjectNode" />
+              <item name="HomeShop" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="HomeShop" type="b2602c69:ProjectViewProjectNode" />
+              <item name="HomeShop" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="genly" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="HomeShop" type="b2602c69:ProjectViewProjectNode" />
               <item name="HomeShop" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="genly" type="462c0819:PsiDirectoryNode" />
-              <item name="homeshop" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="HomeShop" type="b2602c69:ProjectViewProjectNode" />
-              <item name="HomeShop" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="HomeShop" type="b2602c69:ProjectViewProjectNode" />
-              <item name="HomeShop" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
               <item name="homeshop" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -227,6 +222,9 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
     <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.Java" />
   </component>
   <component name="RecentsManager">
@@ -263,19 +261,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.genly.miam.Main" />
-      <module name="HomeShop" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.genly.miam.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="BillTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="HomeShop" />
       <extension name="coverage">
@@ -287,6 +272,38 @@
       <option name="PACKAGE_NAME" value="com.genly.homeshop" />
       <option name="MAIN_CLASS_NAME" value="com.genly.homeshop.BillTest" />
       <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BillTest.Given_NoProductInList_When_generatingBill_Then_throwsException" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="HomeShop" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.genly.homeshop.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.genly.homeshop" />
+      <option name="MAIN_CLASS_NAME" value="com.genly.homeshop.BillTest" />
+      <option name="METHOD_NAME" value="Given_NoProductInList_When_generatingBill_Then_throwsException" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BillTest.Given_emptyProductList_When_generatingList_Then_throwsException" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="HomeShop" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.genly.homeshop.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.genly.homeshop" />
+      <option name="MAIN_CLASS_NAME" value="com.genly.homeshop.BillTest" />
+      <option name="METHOD_NAME" value="Given_emptyProductList_When_generatingList_Then_throwsException" />
+      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -306,28 +323,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="RelayDeliveryTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="HomeShop" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.genly.homeshop.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="com.genly.homeshop" />
-      <option name="MAIN_CLASS_NAME" value="com.genly.homeshop.RelayDeliveryTest" />
-      <option name="TEST_OBJECT" value="class" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
         <item itemvalue="Application.Main (1)" />
         <item itemvalue="JUnit.BillTest" />
+        <item itemvalue="JUnit.BillTest.Given_NoProductInList_When_generatingBill_Then_throwsException" />
+        <item itemvalue="JUnit.BillTest.Given_emptyProductList_When_generatingList_Then_throwsException" />
         <item itemvalue="JUnit.ExpressDeliveryTest" />
-        <item itemvalue="JUnit.RelayDeliveryTest" />
-        <item itemvalue="Application.Main" />
       </list>
     </recent_temporary>
   </component>
@@ -344,7 +346,7 @@
       <workItem from="1558444161974" duration="3810000" />
       <workItem from="1558506939334" duration="1043000" />
       <workItem from="1558508363644" duration="811000" />
-      <workItem from="1558592415776" duration="6427000" />
+      <workItem from="1558592415776" duration="9629000" />
     </task>
     <task id="LOCAL-00001" summary="First Project in JAVA">
       <created>1558507071442</created>
@@ -381,31 +383,17 @@
       <option name="project" value="LOCAL" />
       <updated>1558537111465</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Creating the bill generation">
+      <created>1558600969928</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1558600969928</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="BillTest - 2019.05.23 at 09h 04m 40s.xml">
-      <configuration name="BillTest" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="BillTest - 2019.05.23 at 09h 05m 57s.xml">
-      <configuration name="BillTest" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="BillTest - 2019.05.23 at 09h 07m 36s.xml">
-      <configuration name="BillTest" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="BillTest - 2019.05.23 at 09h 10m 15s.xml">
-      <configuration name="BillTest" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="BillTest - 2019.05.23 at 09h 13m 58s.xml">
-      <configuration name="BillTest" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="BillTest - 2019.05.23 at 09h 40m 22s.xml">
-      <configuration name="BillTest" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="BillTest - 2019.05.23 at 09h 41m 18s.xml">
-      <configuration name="BillTest" configurationId="JUnit" />
-    </history-entry>
     <history-entry file="BillTest - 2019.05.23 at 09h 41m 57s.xml">
       <configuration name="BillTest" configurationId="JUnit" />
     </history-entry>
@@ -415,12 +403,34 @@
     <history-entry file="BillTest - 2019.05.23 at 09h 52m 50s.xml">
       <configuration name="BillTest" configurationId="JUnit" />
     </history-entry>
+    <history-entry file="BillTest_Given_emptyProductList_When_generatingList_Then_throwsException - 2019.05.23 at 10h 51m 37s.xml">
+      <configuration name="BillTest.Given_emptyProductList_When_generatingList_Then_throwsException" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="BillTest_Given_emptyProductList_When_generatingList_Then_throwsException - 2019.05.23 at 10h 53m 22s.xml">
+      <configuration name="BillTest.Given_emptyProductList_When_generatingList_Then_throwsException" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="BillTest_Given_NoProductInList_When_generatingBill_Then_throwsException - 2019.05.23 at 11h 04m 30s.xml">
+      <configuration name="BillTest.Given_NoProductInList_When_generatingBill_Then_throwsException" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="BillTest_Given_NoProductInList_When_generatingBill_Then_throwsException - 2019.05.23 at 11h 06m 06s.xml">
+      <configuration name="BillTest.Given_NoProductInList_When_generatingBill_Then_throwsException" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="BillTest_Given_emptyProductList_When_generatingList_Then_throwsException - 2019.05.23 at 11h 06m 20s.xml">
+      <configuration name="BillTest.Given_emptyProductList_When_generatingList_Then_throwsException" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="BillTest_Given_NoProductInList_When_generatingBill_Then_throwsException - 2019.05.23 at 11h 06m 29s.xml">
+      <configuration name="BillTest.Given_NoProductInList_When_generatingBill_Then_throwsException" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="BillTest - 2019.05.23 at 11h 06m 37s.xml">
+      <configuration name="BillTest" configurationId="JUnit" />
+    </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="25659000" />
+    <option name="totallyTimeSpent" value="28861000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.19839142" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -430,7 +440,7 @@
       <window_info id="Capture Tool" order="5" />
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
-      <window_info active="true" anchor="bottom" id="Find" order="1" visible="true" weight="0.32956153" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32956153" />
       <window_info anchor="bottom" id="Run" order="2" weight="0.32956153" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
@@ -461,24 +471,25 @@
     <MESSAGE value="It's okay ?" />
     <MESSAGE value="Create Television and Fridge class inheriting of Product" />
     <MESSAGE value="Add test for the class who implement the delivery interface" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add test for the class who implement the delivery interface" />
+    <MESSAGE value="Creating the bill generation" />
+    <option name="LAST_COMMIT_MESSAGE" value="Creating the bill generation" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/com/genly/miam/Aliment.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/genly/miam/Aliment.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="270">
           <caret line="10" column="89" selection-start-line="10" selection-start-column="89" selection-end-line="10" selection-end-column="89" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/genly/miam/Soufflerie.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/genly/miam/Soufflerie.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="54">
           <caret line="2" column="23" selection-start-line="2" selection-start-column="23" selection-end-line="2" selection-end-column="23" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/genly/miam/Resistance.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/genly/miam/Resistance.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="81">
           <caret line="3" column="1" lean-forward="true" selection-start-line="3" selection-start-column="1" selection-end-line="3" selection-end-column="1" />
@@ -513,14 +524,14 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/genly/miam/Main.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/genly/miam/Main.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="405">
           <caret line="15" column="19" lean-forward="true" selection-start-line="15" selection-start-column="19" selection-end-line="15" selection-end-column="19" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/genly/miam/Four.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/genly/miam/Four.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="405">
           <caret line="25" column="24" lean-forward="true" selection-start-line="25" selection-start-column="24" selection-end-line="25" selection-end-column="24" />
@@ -537,14 +548,14 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/genly/homeshop/Customer.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/genly/homeshop/Customer.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="324">
           <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/genly/homeshop/Television.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/genly/homeshop/Television.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="351">
           <caret line="13" column="20" lean-forward="true" selection-start-line="13" selection-start-column="20" selection-end-line="13" selection-end-column="20" />
@@ -557,7 +568,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/genly/homeshop/Fridge.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/genly/homeshop/Fridge.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="162">
           <caret line="6" column="57" selection-start-line="6" selection-start-column="57" selection-end-line="6" selection-end-column="57" />
@@ -570,14 +581,14 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/genly/garage/Bike.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/genly/garage/Bike.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="405">
           <caret line="15" column="8" lean-forward="true" selection-start-line="15" selection-start-column="8" selection-end-line="15" selection-end-column="8" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/genly/garage/Vehicule.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/genly/garage/Vehicule.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="432">
           <caret line="22" column="5" lean-forward="true" selection-start-line="22" selection-start-column="5" selection-end-line="22" selection-end-column="5" />
@@ -588,7 +599,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/genly/garage/Car.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/genly/garage/Car.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="351">
           <caret line="30" lean-forward="true" selection-start-line="30" selection-end-line="30" />
@@ -601,14 +612,14 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/genly/Paris/Taxi.java" />
-    <entry file="file://$PROJECT_DIR$/src/com/genly/Paris/MoyenDeLocomotion.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/genly/Paris/MoyenDeLocomotion.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="81">
           <caret line="3" column="33" selection-start-line="3" selection-start-column="33" selection-end-line="3" selection-end-column="33" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/genly/Paris/Bus.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/genly/Paris/Bus.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="189">
           <caret line="7" column="5" lean-forward="true" selection-start-line="7" selection-start-column="5" selection-end-line="7" selection-end-column="5" />
@@ -619,7 +630,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/genly/Paris/Parisien.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/genly/Paris/Parisien.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="162">
           <caret line="6" column="1" lean-forward="true" selection-start-line="6" selection-start-column="1" selection-end-line="6" selection-end-column="1" />
@@ -650,7 +661,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/genly/homeshop/DirectDelivery.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/genly/homeshop/DirectDelivery.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="243">
           <caret line="9" column="29" lean-forward="true" selection-start-line="9" selection-start-column="29" selection-end-line="9" selection-end-column="29" />
@@ -662,7 +673,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/genly/homeshop/ExpressDelivery.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/genly/homeshop/ExpressDelivery.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="345">
           <caret line="19" column="63" selection-start-line="19" selection-start-column="63" selection-end-line="19" selection-end-column="63" />
@@ -675,7 +686,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/genly/homeshop/RelayDelivery.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/genly/homeshop/RelayDelivery.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="351">
           <caret line="21" column="84" selection-start-line="21" selection-start-column="84" selection-end-line="21" selection-end-column="84" />
@@ -688,14 +699,14 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/genly/homeshop/Delivery.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/genly/homeshop/Delivery.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="135">
           <caret line="5" column="21" lean-forward="true" selection-start-line="5" selection-start-column="21" selection-end-line="5" selection-end-column="21" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/genly/homeshop/TakeAwayDelivery.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/genly/homeshop/TakeAwayDelivery.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="270">
           <caret line="10" column="31" lean-forward="true" selection-start-line="10" selection-start-column="31" selection-end-line="10" selection-end-column="31" />
@@ -708,7 +719,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/genly/homeshop/Product.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/genly/homeshop/Product.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="459">
           <caret line="21" column="30" selection-start-line="21" selection-start-column="30" selection-end-line="21" selection-end-column="30" />
@@ -718,31 +729,34 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/test/com/genly/homeshop/BillTest.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/genly/homeshop/NoProductInBillException.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="297">
-          <caret line="41" column="23" selection-start-line="41" selection-start-column="23" selection-end-line="41" selection-end-column="23" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#217#218#0" expanded="true" />
-            <element signature="e#246#247#0" expanded="true" />
-            <element signature="e#316#317#0" expanded="true" />
-            <element signature="e#354#355#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="108">
+          <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/genly/homeshop/Writer.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/genly/homeshop/Writer.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="162">
           <caret line="6" column="10" selection-start-line="6" selection-start-column="10" selection-end-line="6" selection-end-column="10" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/genly/homeshop/Bill.java">
+    <entry file="file://$PROJECT_DIR$/HomeShop.iml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="291">
-          <caret line="53" column="65" selection-start-line="53" selection-start-column="65" selection-end-line="53" selection-end-column="65" />
+        <state relative-caret-position="217">
+          <caret line="10" column="19" selection-start-line="10" selection-start-column="19" selection-end-line="10" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/jshell/jshell_console.snippet">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/genly/homeshop/Bill.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-513">
+          <caret line="9" selection-start-line="9" selection-end-line="9" />
           <folding>
             <element signature="imports" expanded="true" />
             <element signature="e#185#203#0" expanded="true" />
@@ -750,31 +764,44 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/genly/homeshop/FileWriter.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/genly/homeshop/FileWriter.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-189">
-          <caret line="17" column="13" lean-forward="true" selection-start-line="17" selection-start-column="13" selection-end-line="17" selection-end-column="13" />
+        <state relative-caret-position="304">
+          <caret line="29" column="24" lean-forward="true" selection-start-line="29" selection-start-column="24" selection-end-line="29" selection-end-column="24" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#353#354#0" expanded="true" />
-            <element signature="e#393#394#0" expanded="true" />
-            <element signature="e#535#536#0" expanded="true" />
-            <element signature="e#567#568#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/com/genly/homeshop/BillTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="497">
+          <caret line="56" column="1" lean-forward="true" selection-start-line="56" selection-start-column="1" selection-end-line="56" selection-end-column="1" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="416">
+          <caret line="28" column="21" selection-start-line="28" selection-start-column="21" selection-end-line="28" selection-end-column="21" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/facture_leblanc">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="513">
-          <caret line="19" lean-forward="true" selection-start-line="19" selection-end-line="19" />
+        <state relative-caret-position="277">
+          <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/genly/Main.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/genly/Main.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="351">
-          <caret line="19" lean-forward="true" selection-start-line="19" selection-end-line="19" />
+        <state relative-caret-position="432">
+          <caret line="24" column="48" lean-forward="true" selection-start-line="24" selection-start-column="48" selection-end-line="24" selection-end-column="48" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -784,9 +811,78 @@
   </component>
   <component name="masterDetails">
     <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>HomeShop</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
       <state key="ProjectJDKs.UI">
         <settings>
           <last-edited>12</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
           <splitter-proportions>
             <option name="proportions">
               <list>
